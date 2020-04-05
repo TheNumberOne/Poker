@@ -1,4 +1,4 @@
-package org.example.io.github.thenumberone
+package io.github.thenumberone
 
 typealias HandGrade = Int
 

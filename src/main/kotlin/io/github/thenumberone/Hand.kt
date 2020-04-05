@@ -1,4 +1,4 @@
-package org.example.io.github.thenumberone
+package io.github.thenumberone
 
 // A deck is represented by 30 bits. Every 6 bits is a card. The deck is indexed in LSB order
 typealias Hand = Int

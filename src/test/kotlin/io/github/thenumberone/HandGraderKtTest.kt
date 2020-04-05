@@ -1,6 +1,5 @@
 package io.github.thenumberone
 
-import org.example.io.github.thenumberone.*
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertNotEquals
